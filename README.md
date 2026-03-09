@@ -1,8 +1,6 @@
-# Disease Prediction Based on Symptoms 🩺
+# Disease Prediction Based on Symptoms through K-NN Machine learning algorithm with UI  🩺
 
-**Author:** Bassole Cedric-Francois  
-**University:** ISET BIZERTE  
-**Program:** Master in Robotics and Artificial Intelligence  
+**Author:** Bassole Cedric-Francois   
 **Course:** Machine Learning (Supervised Learning Problem)  
 
 ---
